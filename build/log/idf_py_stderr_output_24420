@@ -1,0 +1,1 @@
+warning: the default selection EXAMPLE_LCD_CONTROLLER_ILI9341 (undefined) of <choice EXAMPLE_LCD_CONTROLLER> (defined at D:/esp/mystudy/demo_lvgl_720/main/Kconfig.projbuild:3) is not contained in the choice
